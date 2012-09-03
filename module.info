@@ -1,0 +1,3 @@
+name = "iOS Swipe Navigation"
+description = "Use the iOS specific swipes to go to the previous/next photo"
+version = 1
